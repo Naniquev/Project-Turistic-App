@@ -1,2 +1,2 @@
 # Project-Turistic-App
-Aplicación para encuestas de turismo de Mina Clavero
+Aplicación para encuestas de turismo de la Municipalidad de Mina Clavero.
